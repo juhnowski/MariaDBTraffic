@@ -1,0 +1,3 @@
+entropy_analyzer/target/
+mariadb_data/
+mariadb_bench_blocks/
